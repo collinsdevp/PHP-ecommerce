@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+a{color:pink;}
+body{background-color:grey;}
+.style1{color:brown;}
+.all{background-color:white;}
+.menu{float:right;}
+.newsbar{float:right; background-color:brown; margin-top:15px; width:390px;}
+.content{background-color:grey;}
+.footer{background-color:red;}
