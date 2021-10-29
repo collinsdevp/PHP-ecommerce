@@ -46,23 +46,7 @@
  */
 class Validate_Finance_CreditCard
 {
-    /**
-     * Validates a number according to Luhn check algorithm
-     *
-     * This function checks given number according Luhn check
-     * algorithm. It is published on several places. See links for details.
-     *
-     * @param string $number number to check
-     *
-     * @return bool    TRUE if number is valid, FALSE otherwise
-     * @access public
-     * @static
-     * @deprecated 
-     * @link http://www.webopedia.com/TERM/L/Luhn_formula.html
-     * @link http://www.merriampark.com/anatomycc.htm
-     * @link http://hysteria.sk/prielom/prielom-12.html#3 (Slovak language)
-     * @link http://www.speech.cs.cmu.edu/~sburke/pub/luhn_lib.html (Perl lib)
-     */
+ 
     function Luhn($number)
     {
         return Validate_Finance_CreditCard::_luhn($number);
@@ -79,10 +63,7 @@ class Validate_Finance_CreditCard
      * @return bool    TRUE if number is valid, FALSE otherwise
      * @access private
      * @static
-     * @link http://www.webopedia.com/TERM/L/Luhn_formula.html
-     * @link http://www.merriampark.com/anatomycc.htm
-     * @link http://hysteria.sk/prielom/prielom-12.html#3 (Slovak language)
-     * @link http://www.speech.cs.cmu.edu/~sburke/pub/luhn_lib.html (Perl lib)
+    
      */
     function _luhn($number)
     {
