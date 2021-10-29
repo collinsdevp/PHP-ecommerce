@@ -2,25 +2,6 @@
 /* vim: set expandtab tabstop=4 shiftwidth=4: */
 /**
  * Validation methods for credit card related data
- *
- * PHP Versions 4 and 5
- *
- * This source file is subject to the New BSD license, That is bundled
- * with this package in the file LICENSE, and is available through
- * the world-wide-web at
- * http://www.opensource.org/licenses/bsd-license.php
- * If you did not receive a copy of the new BSDlicense and are unable
- * to obtain it through the world-wide-web, please send a note to
- * pajoye@php.net so we can mail you a copy immediately.
- *
- * @category  Validate
- * @package   Validate_Finance_CreditCard
- * @author    Stefan Neufeind <pear.neufeind@speedpartner.de>
- * @author    Philippe Jausions <Philippe.Jausions@11abacus.com>
- * @copyright 1997-2005  Stefan Neufeind
- * @license   http://www.opensource.org/licenses/bsd-license.php  New BSD License
- * @version   CVS: $Id: CreditCard.php,v 1.13 2007/09/16 16:42:34 kguest Exp $
- * @link      http://pear.php.net/package/Validate_Finance_CreditCard
  */
 
 /**
@@ -37,11 +18,6 @@
  *
  * @category  Validate
  * @package   Validate_Finance_CreditCard
- * @author    Philippe Jausions <Philippe.Jausions@11abacus.com>
- * @author    Ondrej Jombik <nepto@pobox.sk>
- * @copyright 1997-2005  Stefan Neufeind
- * @license   http://www.opensource.org/licenses/bsd-license.php  New BSD License
- * @version   Release: @package_version@
  * @link      http://pear.php.net/package/Validate_Finance_CreditCard
  */
 class Validate_Finance_CreditCard
