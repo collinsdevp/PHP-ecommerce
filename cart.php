@@ -1,11 +1,4 @@
-<?php # Script 5.7 - cart.php
-/*
-* This is the shopping cart page.
-* This page has two modes:
-* - add a product to the cart
-* - update the cart
-* The page shows the cart as a form for updating quantities.
-*/
+<?php 
 
 // Require the configuration file before any PHP code:
 require_once ('config.inc.php');
