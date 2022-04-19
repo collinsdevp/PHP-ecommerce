@@ -1,4 +1,5 @@
-<?php # Script 5.8 - checkout.php
+<?php 
+
  error_reporting(0);
 /*
 * This is a bare-bones checkout page.
