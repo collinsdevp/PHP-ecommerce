@@ -1,9 +1,5 @@
-<?php # Script 5.4 - index.php
+<?php
 
-/*
-* This is the main page.
-* This page doesn't do much.
-*/
 
 
 // Require the configuration file before any PHP code:
