@@ -1,11 +1,4 @@
-<?php # Script 5.5 - category.php
-
-/*
-* This page represents a specific category.
-* This page shows all the widgets classified
-* under that category.
-* The page expects to receive a $_GET['cid'] value.
-*/
+<?php 
 
 // Require the configuration file before any PHP code:
 require_once ('config.inc.php');
