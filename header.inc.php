@@ -1,10 +1,4 @@
-<?php # Script 5.2 - header.html
-
-/*
-* This page begins the HTML header for the site.
-* The header also creates the right-hand column.
-* This page calls session_start().
-*/
+<?php 
 
 // Need sessions!
 session_start();
