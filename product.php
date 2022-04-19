@@ -1,11 +1,5 @@
-<?php # Script 5.6 - product.php
+<?php 
 
-/*
-* This is the product page.
-* This page shows all the specific
-* products available for a given $_GET['gw_id'].
-* Links allow customers to add items to their cart.
-*/
 // Require the configuration file before any PHP code:
 require_once ('config.inc.php');
 
