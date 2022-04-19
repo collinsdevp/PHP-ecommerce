@@ -1,4 +1,5 @@
-<?php # Script 5.3 - footer.html
+<?php 
+
 
 // Close the database connection.
 if (isset($dbc)) {
