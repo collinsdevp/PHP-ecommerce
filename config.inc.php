@@ -1,12 +1,4 @@
-<?php # Script 5.1 - config.inc.php
-
-/*
-* Configuration file does the following things:
-* - Has site settings in one location.
-* - Stores URLs and URIs as constants.
-* - Sets how errors will be handled.
-* - Establishes a connection to the database.
-*/
+<?php 
 
 
  # ******************** #
